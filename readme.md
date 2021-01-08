@@ -22,7 +22,7 @@
 
 8. form model ensembles for extra performance: model trained with different random initializations, models with different hyperparameters, model at different epoches, etc.
 
-9. SGD + Momentum / Adam 
+9. SGD + Momentum / Adam are the two optimizers popularly in use today
 
 Ref: https://cs231n.github.io/neural-networks-3/#annealing-the-learning-rate
 
